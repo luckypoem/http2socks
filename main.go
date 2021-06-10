@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"h12.io/socks"
+	"github.com/h12w/socks"
 )
 
 var _ = fmt.Printf
